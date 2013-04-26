@@ -1,0 +1,6 @@
+[submodule "var/modules/git-submodules/haibu-carapace"]
+	path = var/modules/git-submodules/haibu-carapace
+	url = git@github.com:solobit/haibu-carapace.git
+[submodule "var/modules/git-submodules/haibu"]
+	path = var/modules/git-submodules/haibu
+	url = git@github.com:solobit/haibu.git
